@@ -1,0 +1,296 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{11FEB8A8-BAC1-4FF3-86E0-F9935F80A08B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>MCWM</RootNamespace>
+    <AssemblyName>MCWM</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>D:\Project Files\DBTI\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>annotation_2020_02_03_111828_4yG_icon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>8AD7695CACEA64F305A04E805F60ADB09253746C</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>MCWM_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\..\Windows\assembly\GAC_MSIL\CrystalDecisions.CrystalReports.Engine\13.0.2000.0__692fbea5521e1304\CrystalDecisions.CrystalReports.Engine.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\..\Windows\assembly\GAC_MSIL\CrystalDecisions.ReportSource\13.0.2000.0__692fbea5521e1304\CrystalDecisions.ReportSource.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\..\Windows\assembly\GAC_MSIL\CrystalDecisions.Shared\13.0.2000.0__692fbea5521e1304\CrystalDecisions.Shared.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\..\Windows\assembly\GAC_MSIL\CrystalDecisions.Windows.Forms\13.0.2000.0__692fbea5521e1304\CrystalDecisions.Windows.Forms.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=4.0.4.1, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.CompilerServices.Unsafe.4.5.2\lib\netstandard1.0\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Unity.Abstractions, Version=5.11.1.0, Culture=neutral, PublicKeyToken=489b6accfaf20ef0, processorArchitecture=MSIL">
+      <HintPath>..\packages\Unity.5.11.1\lib\net45\Unity.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Container, Version=5.11.1.0, Culture=neutral, PublicKeyToken=489b6accfaf20ef0, processorArchitecture=MSIL">
+      <HintPath>..\packages\Unity.5.11.1\lib\net45\Unity.Container.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Helper\DocumentsHelper.cs" />
+    <Compile Include="Helper\PublicStatic.cs" />
+    <Compile Include="Models\DocumentHeaderModel.cs" />
+    <Compile Include="Models\DocumentRowModel.cs" />
+    <Compile Include="Presenters\Main\IMainPresenter.cs" />
+    <Compile Include="Presenters\Main\MainPresenter.cs" />
+    <Compile Include="Presenters\Security\ISecurityPresenter.cs" />
+    <Compile Include="Presenters\Security\SecurityPresenter.cs" />
+    <Compile Include="Presenters\TravelOrder\ITravelOrderPresenter.cs" />
+    <Compile Include="Presenters\TravelOrder\TravelOrderPresenter.cs" />
+    <Compile Include="Services\Security\ILoginService.cs" />
+    <Compile Include="Services\Security\LoginService.cs" />
+    <Compile Include="Views\Main\IfrmMain.cs" />
+    <Compile Include="Views\Security\frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Security\frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Main\frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Main\frmMain.Designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Views\Tools\frmCrystalReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Tools\frmCrystalReport.Designer.cs">
+      <DependentUpon>frmCrystalReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Tools\frmDateParam.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Tools\frmDateParam.Designer.cs">
+      <DependentUpon>frmDateParam.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Tools\frmLocalTransactions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Tools\frmLocalTransactions.Designer.cs">
+      <DependentUpon>frmLocalTransactions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Tools\frmSearch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Tools\frmSearch.Designer.cs">
+      <DependentUpon>frmSearch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Tools\frmSummaryOfTransactions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Tools\frmSummaryOfTransactions.Designer.cs">
+      <DependentUpon>frmSummaryOfTransactions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\TravelOrder\frmTravelOrderExternal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\TravelOrder\frmTravelOrderExternal.Designer.cs">
+      <DependentUpon>frmTravelOrderExternal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\TravelOrder\frmTravelOrders.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\TravelOrder\frmTravelOrders.Designer.cs">
+      <DependentUpon>frmTravelOrders.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\frmUserConfig.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\frmUserConfig.Designer.cs">
+      <DependentUpon>frmUserConfig.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Security\IfrmLogin.cs" />
+    <Compile Include="Views\TravelOrder\IfrmTravelOrders.cs" />
+    <Compile Include="Views\TravelOrder\frmOneTimeWeigh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\TravelOrder\frmOneTimeWeigh.Designer.cs">
+      <DependentUpon>frmOneTimeWeigh.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Views\Security\frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Main\frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Views\Tools\frmCrystalReport.resx">
+      <DependentUpon>frmCrystalReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Tools\frmDateParam.resx">
+      <DependentUpon>frmDateParam.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Tools\frmLocalTransactions.resx">
+      <DependentUpon>frmLocalTransactions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Tools\frmSearch.resx">
+      <DependentUpon>frmSearch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Tools\frmSummaryOfTransactions.resx">
+      <DependentUpon>frmSummaryOfTransactions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\TravelOrder\frmTravelOrderExternal.resx">
+      <DependentUpon>frmTravelOrderExternal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\TravelOrder\frmTravelOrders.resx">
+      <DependentUpon>frmTravelOrders.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\frmUserConfig.resx">
+      <DependentUpon>frmUserConfig.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\TravelOrder\frmOneTimeWeigh.resx">
+      <DependentUpon>frmOneTimeWeigh.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="MCWM_TemporaryKey.pfx" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="Views\Tools\frmCrystalReport.cs.mine" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DirecLayer\DirecLayer.csproj">
+      <Project>{950e5705-e3bb-4c5f-8da7-cbc351d3d999}</Project>
+      <Name>DirecLayer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DomainLayer\DomainLayer.csproj">
+      <Project>{a6a155a4-5758-48da-8564-1c81c77cc78e}</Project>
+      <Name>DomainLayer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\InfrastructureLayer\InfrastructureLayer.csproj">
+      <Project>{e89de9a8-6677-4f6e-99cb-9fb9eb371b21}</Project>
+      <Name>InfrastructureLayer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ServiceLayer\ServiceLayer.csproj">
+      <Project>{8b916e5d-eaa2-4210-aac2-3222d5c296fa}</Project>
+      <Name>ServiceLayer</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Repository\" />
+    <Folder Include="Services\Class\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="annotation_2020_02_03_111828_4yG_icon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

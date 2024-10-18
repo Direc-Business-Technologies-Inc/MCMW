@@ -1,0 +1,27 @@
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\New folder\InfrastructureLayer\bin\Debug\InfrastructureLayer.dll
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\New folder\InfrastructureLayer\bin\Debug\InfrastructureLayer.pdb
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\New folder\InfrastructureLayer\obj\Debug\InfrastructureLayer.csprojResolveAssemblyReference.cache
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\New folder\InfrastructureLayer\obj\Debug\InfrastructureLayer.dll
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\New folder\InfrastructureLayer\obj\Debug\InfrastructureLayer.pdb
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\InfrastructureLayer\bin\Debug\InfrastructureLayer.dll
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\InfrastructureLayer\bin\Debug\InfrastructureLayer.pdb
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\InfrastructureLayer\obj\Debug\InfrastructureLayer.csprojResolveAssemblyReference.cache
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\InfrastructureLayer\obj\Debug\InfrastructureLayer.dll
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\InfrastructureLayer\obj\Debug\InfrastructureLayer.pdb
+C:\Users\thinkpad\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\InfrastructureLayer\bin\Debug\InfrastructureLayer.dll
+C:\Users\thinkpad\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\InfrastructureLayer\bin\Debug\InfrastructureLayer.pdb
+C:\Users\thinkpad\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\InfrastructureLayer\obj\Debug\InfrastructureLayer.csprojResolveAssemblyReference.cache
+C:\Users\thinkpad\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\InfrastructureLayer\obj\Debug\InfrastructureLayer.dll
+C:\Users\thinkpad\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\InfrastructureLayer\obj\Debug\InfrastructureLayer.pdb
+D:\ADDON\MCWM\MCWM_20191017_0727\MCWM\InfrastructureLayer\bin\Debug\InfrastructureLayer.dll
+D:\ADDON\MCWM\MCWM_20191017_0727\MCWM\InfrastructureLayer\bin\Debug\InfrastructureLayer.pdb
+D:\ADDON\MCWM\MCWM_20191017_0727\MCWM\InfrastructureLayer\obj\Debug\InfrastructureLayer.csprojAssemblyReference.cache
+D:\ADDON\MCWM\MCWM_20191017_0727\MCWM\InfrastructureLayer\obj\Debug\InfrastructureLayer.csproj.CoreCompileInputs.cache
+D:\ADDON\MCWM\MCWM_20191017_0727\MCWM\InfrastructureLayer\obj\Debug\InfrastructureLayer.dll
+D:\ADDON\MCWM\MCWM_20191017_0727\MCWM\InfrastructureLayer\obj\Debug\InfrastructureLayer.pdb
+D:\Projects Visual Studio\MCWM\InfrastructureLayer\bin\Debug\InfrastructureLayer.dll
+D:\Projects Visual Studio\MCWM\InfrastructureLayer\bin\Debug\InfrastructureLayer.pdb
+D:\Projects Visual Studio\MCWM\InfrastructureLayer\obj\Debug\InfrastructureLayer.csproj.AssemblyReference.cache
+D:\Projects Visual Studio\MCWM\InfrastructureLayer\obj\Debug\InfrastructureLayer.csproj.CoreCompileInputs.cache
+D:\Projects Visual Studio\MCWM\InfrastructureLayer\obj\Debug\InfrastructureLayer.dll
+D:\Projects Visual Studio\MCWM\InfrastructureLayer\obj\Debug\InfrastructureLayer.pdb

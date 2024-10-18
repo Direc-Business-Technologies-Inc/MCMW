@@ -1,0 +1,266 @@
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\New folder\MCWM\bin\Debug\MCWM.exe.config
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\New folder\MCWM\bin\Debug\MCWM.exe
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\New folder\MCWM\bin\Debug\MCWM.pdb
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\New folder\MCWM\bin\Debug\DirecLayer.dll
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\New folder\MCWM\bin\Debug\DomainLayer.dll
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\New folder\MCWM\bin\Debug\EntityFramework.dll
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\New folder\MCWM\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\New folder\MCWM\bin\Debug\InfrastructureLayer.dll
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\New folder\MCWM\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\New folder\MCWM\bin\Debug\Unity.Abstractions.dll
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\New folder\MCWM\bin\Debug\Unity.Container.dll
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\New folder\MCWM\bin\Debug\RestSharp.dll
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\New folder\MCWM\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\New folder\MCWM\bin\Debug\DirecLayer.pdb
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\New folder\MCWM\bin\Debug\DomainLayer.pdb
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\New folder\MCWM\bin\Debug\DomainLayer.dll.config
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\New folder\MCWM\bin\Debug\InfrastructureLayer.pdb
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\New folder\MCWM\bin\Debug\EntityFramework.xml
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\New folder\MCWM\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\New folder\MCWM\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\New folder\MCWM\bin\Debug\Unity.Abstractions.pdb
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\New folder\MCWM\bin\Debug\Unity.Container.pdb
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\New folder\MCWM\bin\Debug\RestSharp.xml
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\New folder\MCWM\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\New folder\MCWM\obj\Debug\MCWM.csprojResolveAssemblyReference.cache
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\New folder\MCWM\obj\Debug\MCWM.Views.Security.frmLogin.resources
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\New folder\MCWM\obj\Debug\MCWM.Views.Main.frmMain.resources
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\New folder\MCWM\obj\Debug\MCWM.Properties.Resources.resources
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\New folder\MCWM\obj\Debug\MCWM.Views.TravelOrder.frmTravelOrders.resources
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\New folder\MCWM\obj\Debug\MCWM.Views.frmUserConfig.resources
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\New folder\MCWM\obj\Debug\MCWM.csproj.GenerateResource.Cache
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\New folder\MCWM\obj\Debug\MCWM.exe
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\New folder\MCWM\obj\Debug\MCWM.pdb
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\obj\Debug\MCWM.csprojResolveAssemblyReference.cache
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\obj\Debug\MCWM.Views.Security.frmLogin.resources
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\obj\Debug\MCWM.Views.Main.frmMain.resources
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\obj\Debug\MCWM.Properties.Resources.resources
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\obj\Debug\MCWM.Views.Tools.frmSearch.resources
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\obj\Debug\MCWM.Views.TravelOrder.frmTravelOrders.resources
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\obj\Debug\MCWM.Views.frmUserConfig.resources
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\obj\Debug\MCWM.csproj.GenerateResource.Cache
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\bin\Debug\MCWM.exe.config
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\bin\Debug\MCWM.exe
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\bin\Debug\MCWM.pdb
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\bin\Debug\DirecLayer.dll
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\bin\Debug\DomainLayer.dll
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\bin\Debug\EntityFramework.dll
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\bin\Debug\InfrastructureLayer.dll
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\bin\Debug\ServiceLayer.dll
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\bin\Debug\Unity.Abstractions.dll
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\bin\Debug\Unity.Container.dll
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\bin\Debug\RestSharp.dll
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\bin\Debug\DirecLayer.pdb
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\bin\Debug\DomainLayer.pdb
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\bin\Debug\DomainLayer.dll.config
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\bin\Debug\InfrastructureLayer.pdb
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\bin\Debug\ServiceLayer.pdb
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\bin\Debug\EntityFramework.xml
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\bin\Debug\Unity.Abstractions.pdb
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\bin\Debug\Unity.Container.pdb
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\bin\Debug\RestSharp.xml
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\obj\Debug\MCWM.exe
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\obj\Debug\MCWM.pdb
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\obj\Debug\MCWM.Views.TravelOrder.frmOneTimeWeigh.resources
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\obj\Debug\MCWM.Views.TravelOrder.frmTravelOrderExternal.resources
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\bin\Debug\FlashControlV71.dll
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\bin\Debug\stdole.dll
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\obj\Debug\MCWM.Views.Tools.frmCrystalReport.resources
+C:\Users\thinkpad\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\bin\Debug\MCWM.exe.config
+C:\Users\thinkpad\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\bin\Debug\MCWM.exe
+C:\Users\thinkpad\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\bin\Debug\MCWM.pdb
+C:\Users\thinkpad\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\bin\Debug\DirecLayer.dll
+C:\Users\thinkpad\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\bin\Debug\DomainLayer.dll
+C:\Users\thinkpad\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\bin\Debug\EntityFramework.dll
+C:\Users\thinkpad\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\thinkpad\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\bin\Debug\InfrastructureLayer.dll
+C:\Users\thinkpad\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\bin\Debug\ServiceLayer.dll
+C:\Users\thinkpad\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\thinkpad\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\bin\Debug\Unity.Abstractions.dll
+C:\Users\thinkpad\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\bin\Debug\Unity.Container.dll
+C:\Users\thinkpad\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\bin\Debug\RestSharp.dll
+C:\Users\thinkpad\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\bin\Debug\Newtonsoft.Json.dll
+C:\Users\thinkpad\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\bin\Debug\stdole.dll
+C:\Users\thinkpad\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\bin\Debug\DirecLayer.pdb
+C:\Users\thinkpad\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\bin\Debug\DomainLayer.pdb
+C:\Users\thinkpad\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\bin\Debug\DomainLayer.dll.config
+C:\Users\thinkpad\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\bin\Debug\InfrastructureLayer.pdb
+C:\Users\thinkpad\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\bin\Debug\ServiceLayer.pdb
+C:\Users\thinkpad\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\bin\Debug\EntityFramework.xml
+C:\Users\thinkpad\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\thinkpad\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\thinkpad\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\bin\Debug\Unity.Abstractions.pdb
+C:\Users\thinkpad\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\bin\Debug\Unity.Container.pdb
+C:\Users\thinkpad\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\bin\Debug\RestSharp.xml
+C:\Users\thinkpad\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\bin\Debug\Newtonsoft.Json.xml
+C:\Users\thinkpad\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\obj\Debug\MCWM.csprojResolveAssemblyReference.cache
+C:\Users\thinkpad\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\obj\Debug\MCWM.Views.Security.frmLogin.resources
+C:\Users\thinkpad\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\obj\Debug\MCWM.Views.Main.frmMain.resources
+C:\Users\thinkpad\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\obj\Debug\MCWM.Properties.Resources.resources
+C:\Users\thinkpad\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\obj\Debug\MCWM.Views.Tools.frmCrystalReport.resources
+C:\Users\thinkpad\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\obj\Debug\MCWM.Views.Tools.frmSearch.resources
+C:\Users\thinkpad\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\obj\Debug\MCWM.Views.TravelOrder.frmTravelOrderExternal.resources
+C:\Users\thinkpad\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\obj\Debug\MCWM.Views.TravelOrder.frmTravelOrders.resources
+C:\Users\thinkpad\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\obj\Debug\MCWM.Views.frmUserConfig.resources
+C:\Users\thinkpad\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\obj\Debug\MCWM.Views.TravelOrder.frmOneTimeWeigh.resources
+C:\Users\thinkpad\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\obj\Debug\MCWM.csproj.GenerateResource.Cache
+C:\Users\thinkpad\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\obj\Debug\MCWM.exe
+C:\Users\thinkpad\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\obj\Debug\MCWM.pdb
+C:\Users\thinkpad\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\obj\Debug\MCWM.Views.Tools.frmSummaryOfTransactions.resources
+C:\Users\thinkpad\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\obj\Debug\MCWM.Views.Tools.frmDateParam.resources
+D:\ADDON\MCWM\MCWM_20191017_0727\MCWM\MCWM\bin\Debug\MCWM.exe.config
+D:\ADDON\MCWM\MCWM_20191017_0727\MCWM\MCWM\bin\Debug\MCWM.exe
+D:\ADDON\MCWM\MCWM_20191017_0727\MCWM\MCWM\bin\Debug\MCWM.pdb
+D:\ADDON\MCWM\MCWM_20191017_0727\MCWM\MCWM\bin\Debug\DirecLayer.dll
+D:\ADDON\MCWM\MCWM_20191017_0727\MCWM\MCWM\bin\Debug\DomainLayer.dll
+D:\ADDON\MCWM\MCWM_20191017_0727\MCWM\MCWM\bin\Debug\EntityFramework.dll
+D:\ADDON\MCWM\MCWM_20191017_0727\MCWM\MCWM\bin\Debug\EntityFramework.SqlServer.dll
+D:\ADDON\MCWM\MCWM_20191017_0727\MCWM\MCWM\bin\Debug\FlashControlV71.dll
+D:\ADDON\MCWM\MCWM_20191017_0727\MCWM\MCWM\bin\Debug\InfrastructureLayer.dll
+D:\ADDON\MCWM\MCWM_20191017_0727\MCWM\MCWM\bin\Debug\ServiceLayer.dll
+D:\ADDON\MCWM\MCWM_20191017_0727\MCWM\MCWM\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\ADDON\MCWM\MCWM_20191017_0727\MCWM\MCWM\bin\Debug\Unity.Abstractions.dll
+D:\ADDON\MCWM\MCWM_20191017_0727\MCWM\MCWM\bin\Debug\Unity.Container.dll
+D:\ADDON\MCWM\MCWM_20191017_0727\MCWM\MCWM\bin\Debug\RestSharp.dll
+D:\ADDON\MCWM\MCWM_20191017_0727\MCWM\MCWM\bin\Debug\Newtonsoft.Json.dll
+D:\ADDON\MCWM\MCWM_20191017_0727\MCWM\MCWM\bin\Debug\ShockwaveFlashObjects.dll
+D:\ADDON\MCWM\MCWM_20191017_0727\MCWM\MCWM\bin\Debug\stdole.dll
+D:\ADDON\MCWM\MCWM_20191017_0727\MCWM\MCWM\bin\Debug\DirecLayer.pdb
+D:\ADDON\MCWM\MCWM_20191017_0727\MCWM\MCWM\bin\Debug\DomainLayer.pdb
+D:\ADDON\MCWM\MCWM_20191017_0727\MCWM\MCWM\bin\Debug\DomainLayer.dll.config
+D:\ADDON\MCWM\MCWM_20191017_0727\MCWM\MCWM\bin\Debug\InfrastructureLayer.pdb
+D:\ADDON\MCWM\MCWM_20191017_0727\MCWM\MCWM\bin\Debug\ServiceLayer.pdb
+D:\ADDON\MCWM\MCWM_20191017_0727\MCWM\MCWM\bin\Debug\EntityFramework.xml
+D:\ADDON\MCWM\MCWM_20191017_0727\MCWM\MCWM\bin\Debug\EntityFramework.SqlServer.xml
+D:\ADDON\MCWM\MCWM_20191017_0727\MCWM\MCWM\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\ADDON\MCWM\MCWM_20191017_0727\MCWM\MCWM\bin\Debug\Unity.Abstractions.pdb
+D:\ADDON\MCWM\MCWM_20191017_0727\MCWM\MCWM\bin\Debug\Unity.Container.pdb
+D:\ADDON\MCWM\MCWM_20191017_0727\MCWM\MCWM\bin\Debug\RestSharp.xml
+D:\ADDON\MCWM\MCWM_20191017_0727\MCWM\MCWM\bin\Debug\Newtonsoft.Json.xml
+D:\ADDON\MCWM\MCWM_20191017_0727\MCWM\MCWM\obj\Debug\MCWM.csprojAssemblyReference.cache
+D:\ADDON\MCWM\MCWM_20191017_0727\MCWM\MCWM\obj\Debug\MCWM.Views.Security.frmLogin.resources
+D:\ADDON\MCWM\MCWM_20191017_0727\MCWM\MCWM\obj\Debug\MCWM.Views.Main.frmMain.resources
+D:\ADDON\MCWM\MCWM_20191017_0727\MCWM\MCWM\obj\Debug\MCWM.Properties.Resources.resources
+D:\ADDON\MCWM\MCWM_20191017_0727\MCWM\MCWM\obj\Debug\MCWM.Views.Tools.frmCrystalReport.resources
+D:\ADDON\MCWM\MCWM_20191017_0727\MCWM\MCWM\obj\Debug\MCWM.Views.Tools.frmDateParam.resources
+D:\ADDON\MCWM\MCWM_20191017_0727\MCWM\MCWM\obj\Debug\MCWM.Views.Tools.frmSearch.resources
+D:\ADDON\MCWM\MCWM_20191017_0727\MCWM\MCWM\obj\Debug\MCWM.Views.Tools.frmSummaryOfTransactions.resources
+D:\ADDON\MCWM\MCWM_20191017_0727\MCWM\MCWM\obj\Debug\MCWM.Views.TravelOrder.frmTravelOrderExternal.resources
+D:\ADDON\MCWM\MCWM_20191017_0727\MCWM\MCWM\obj\Debug\MCWM.Views.TravelOrder.frmTravelOrders.resources
+D:\ADDON\MCWM\MCWM_20191017_0727\MCWM\MCWM\obj\Debug\MCWM.Views.frmUserConfig.resources
+D:\ADDON\MCWM\MCWM_20191017_0727\MCWM\MCWM\obj\Debug\MCWM.Views.TravelOrder.frmOneTimeWeigh.resources
+D:\ADDON\MCWM\MCWM_20191017_0727\MCWM\MCWM\obj\Debug\MCWM.csproj.GenerateResource.cache
+D:\ADDON\MCWM\MCWM_20191017_0727\MCWM\MCWM\obj\Debug\MCWM.csproj.CoreCompileInputs.cache
+D:\ADDON\MCWM\MCWM_20191017_0727\MCWM\MCWM\obj\Debug\MCWM.csproj.CopyComplete
+D:\ADDON\MCWM\MCWM_20191017_0727\MCWM\MCWM\obj\Debug\MCWM.exe
+D:\ADDON\MCWM\MCWM_20191017_0727\MCWM\MCWM\obj\Debug\MCWM.pdb
+C:\Users\thinkpad\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\obj\Debug\MCWM.Views.Tools.frmLocalTransactions.resources
+C:\Users\thinkpad\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\thinkpad\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\thinkpad\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\thinkpad\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\thinkpad\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\bin\Debug\FlashControlV71.dll
+C:\Users\thinkpad\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\thinkpad\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\thinkpad\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\thinkpad\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\thinkpad\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\thinkpad\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\thinkpad\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\thinkpad\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\thinkpad\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\thinkpad\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\thinkpad\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\thinkpad\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\thinkpad\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\MCWM\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Projects Visual Studio\MCWM\MCWM\bin\Debug\MCWM.exe.config
+D:\Projects Visual Studio\MCWM\MCWM\bin\Debug\MCWM.exe
+D:\Projects Visual Studio\MCWM\MCWM\bin\Debug\MCWM.pdb
+D:\Projects Visual Studio\MCWM\MCWM\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Projects Visual Studio\MCWM\MCWM\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Projects Visual Studio\MCWM\MCWM\bin\Debug\CrystalDecisions.Shared.dll
+D:\Projects Visual Studio\MCWM\MCWM\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Projects Visual Studio\MCWM\MCWM\bin\Debug\DirecLayer.dll
+D:\Projects Visual Studio\MCWM\MCWM\bin\Debug\DomainLayer.dll
+D:\Projects Visual Studio\MCWM\MCWM\bin\Debug\EntityFramework.dll
+D:\Projects Visual Studio\MCWM\MCWM\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects Visual Studio\MCWM\MCWM\bin\Debug\FlashControlV71.dll
+D:\Projects Visual Studio\MCWM\MCWM\bin\Debug\InfrastructureLayer.dll
+D:\Projects Visual Studio\MCWM\MCWM\bin\Debug\ServiceLayer.dll
+D:\Projects Visual Studio\MCWM\MCWM\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Projects Visual Studio\MCWM\MCWM\bin\Debug\Unity.Abstractions.dll
+D:\Projects Visual Studio\MCWM\MCWM\bin\Debug\Unity.Container.dll
+D:\Projects Visual Studio\MCWM\MCWM\bin\Debug\RestSharp.dll
+D:\Projects Visual Studio\MCWM\MCWM\bin\Debug\Newtonsoft.Json.dll
+D:\Projects Visual Studio\MCWM\MCWM\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Projects Visual Studio\MCWM\MCWM\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Projects Visual Studio\MCWM\MCWM\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Projects Visual Studio\MCWM\MCWM\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Projects Visual Studio\MCWM\MCWM\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Projects Visual Studio\MCWM\MCWM\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Projects Visual Studio\MCWM\MCWM\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Projects Visual Studio\MCWM\MCWM\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Projects Visual Studio\MCWM\MCWM\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Projects Visual Studio\MCWM\MCWM\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Projects Visual Studio\MCWM\MCWM\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Projects Visual Studio\MCWM\MCWM\bin\Debug\ShockwaveFlashObjects.dll
+D:\Projects Visual Studio\MCWM\MCWM\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Projects Visual Studio\MCWM\MCWM\bin\Debug\stdole.dll
+D:\Projects Visual Studio\MCWM\MCWM\bin\Debug\DirecLayer.pdb
+D:\Projects Visual Studio\MCWM\MCWM\bin\Debug\DomainLayer.pdb
+D:\Projects Visual Studio\MCWM\MCWM\bin\Debug\DomainLayer.dll.config
+D:\Projects Visual Studio\MCWM\MCWM\bin\Debug\InfrastructureLayer.pdb
+D:\Projects Visual Studio\MCWM\MCWM\bin\Debug\ServiceLayer.pdb
+D:\Projects Visual Studio\MCWM\MCWM\bin\Debug\EntityFramework.xml
+D:\Projects Visual Studio\MCWM\MCWM\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects Visual Studio\MCWM\MCWM\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Projects Visual Studio\MCWM\MCWM\bin\Debug\Unity.Abstractions.pdb
+D:\Projects Visual Studio\MCWM\MCWM\bin\Debug\Unity.Container.pdb
+D:\Projects Visual Studio\MCWM\MCWM\bin\Debug\RestSharp.xml
+D:\Projects Visual Studio\MCWM\MCWM\bin\Debug\Newtonsoft.Json.xml
+D:\Projects Visual Studio\MCWM\MCWM\obj\Debug\MCWM.csproj.AssemblyReference.cache
+D:\Projects Visual Studio\MCWM\MCWM\obj\Debug\MCWM.csproj.SuggestedBindingRedirects.cache
+D:\Projects Visual Studio\MCWM\MCWM\obj\Debug\MCWM.Views.Security.frmLogin.resources
+D:\Projects Visual Studio\MCWM\MCWM\obj\Debug\MCWM.Views.Main.frmMain.resources
+D:\Projects Visual Studio\MCWM\MCWM\obj\Debug\MCWM.Properties.Resources.resources
+D:\Projects Visual Studio\MCWM\MCWM\obj\Debug\MCWM.Views.Tools.frmCrystalReport.resources
+D:\Projects Visual Studio\MCWM\MCWM\obj\Debug\MCWM.Views.Tools.frmDateParam.resources
+D:\Projects Visual Studio\MCWM\MCWM\obj\Debug\MCWM.Views.Tools.frmLocalTransactions.resources
+D:\Projects Visual Studio\MCWM\MCWM\obj\Debug\MCWM.Views.Tools.frmSearch.resources
+D:\Projects Visual Studio\MCWM\MCWM\obj\Debug\MCWM.Views.Tools.frmSummaryOfTransactions.resources
+D:\Projects Visual Studio\MCWM\MCWM\obj\Debug\MCWM.Views.TravelOrder.frmTravelOrderExternal.resources
+D:\Projects Visual Studio\MCWM\MCWM\obj\Debug\MCWM.Views.TravelOrder.frmTravelOrders.resources
+D:\Projects Visual Studio\MCWM\MCWM\obj\Debug\MCWM.Views.frmUserConfig.resources
+D:\Projects Visual Studio\MCWM\MCWM\obj\Debug\MCWM.Views.TravelOrder.frmOneTimeWeigh.resources
+D:\Projects Visual Studio\MCWM\MCWM\obj\Debug\MCWM.csproj.GenerateResource.cache
+D:\Projects Visual Studio\MCWM\MCWM\obj\Debug\MCWM.csproj.CoreCompileInputs.cache
+D:\Projects Visual Studio\MCWM\MCWM\obj\Debug\MCWM.csproj.CopyComplete
+D:\Projects Visual Studio\MCWM\MCWM\obj\Debug\MCWM.exe
+D:\Projects Visual Studio\MCWM\MCWM\obj\Debug\MCWM.pdb
+D:\Projects Visual Studio\MCWM\MCWM\bin\Debug\MCWM.exe.manifest
+D:\Projects Visual Studio\MCWM\MCWM\bin\Debug\MCWM.application
+D:\Projects Visual Studio\MCWM\MCWM\obj\Debug\MCWM.exe.manifest
+D:\Projects Visual Studio\MCWM\MCWM\obj\Debug\MCWM.application

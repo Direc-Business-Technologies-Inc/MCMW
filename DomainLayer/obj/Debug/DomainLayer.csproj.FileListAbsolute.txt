@@ -1,0 +1,54 @@
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\New folder\DomainLayer\bin\Debug\DomainLayer.dll.config
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\New folder\DomainLayer\bin\Debug\DomainLayer.dll
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\New folder\DomainLayer\bin\Debug\DomainLayer.pdb
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\New folder\DomainLayer\bin\Debug\EntityFramework.dll
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\New folder\DomainLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\New folder\DomainLayer\bin\Debug\EntityFramework.xml
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\New folder\DomainLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\New folder\DomainLayer\obj\Debug\DomainLayer.csprojResolveAssemblyReference.cache
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\New folder\DomainLayer\obj\Debug\DomainLayer.dll
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\New folder\DomainLayer\obj\Debug\DomainLayer.pdb
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\DomainLayer\bin\Debug\DomainLayer.dll.config
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\DomainLayer\bin\Debug\DomainLayer.dll
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\DomainLayer\bin\Debug\DomainLayer.pdb
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\DomainLayer\bin\Debug\EntityFramework.dll
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\DomainLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\DomainLayer\bin\Debug\EntityFramework.xml
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\DomainLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\DomainLayer\obj\Debug\DomainLayer.dll
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\DomainLayer\obj\Debug\DomainLayer.pdb
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\DomainLayer\obj\Debug\DomainLayer.csprojResolveAssemblyReference.cache
+C:\Users\thinkpad\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\DomainLayer\bin\Debug\DomainLayer.dll.config
+C:\Users\thinkpad\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\DomainLayer\bin\Debug\DomainLayer.dll
+C:\Users\thinkpad\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\DomainLayer\bin\Debug\DomainLayer.pdb
+C:\Users\thinkpad\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\DomainLayer\bin\Debug\EntityFramework.dll
+C:\Users\thinkpad\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\DomainLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\thinkpad\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\DomainLayer\bin\Debug\EntityFramework.xml
+C:\Users\thinkpad\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\DomainLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\thinkpad\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\DomainLayer\obj\Debug\DomainLayer.dll
+C:\Users\thinkpad\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\DomainLayer\obj\Debug\DomainLayer.pdb
+D:\ADDON\MCWM\MCWM_20191017_0727\MCWM\DomainLayer\bin\Debug\DomainLayer.dll.config
+D:\ADDON\MCWM\MCWM_20191017_0727\MCWM\DomainLayer\bin\Debug\DomainLayer.dll
+D:\ADDON\MCWM\MCWM_20191017_0727\MCWM\DomainLayer\bin\Debug\DomainLayer.pdb
+D:\ADDON\MCWM\MCWM_20191017_0727\MCWM\DomainLayer\bin\Debug\EntityFramework.dll
+D:\ADDON\MCWM\MCWM_20191017_0727\MCWM\DomainLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\ADDON\MCWM\MCWM_20191017_0727\MCWM\DomainLayer\bin\Debug\EntityFramework.xml
+D:\ADDON\MCWM\MCWM_20191017_0727\MCWM\DomainLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\ADDON\MCWM\MCWM_20191017_0727\MCWM\DomainLayer\obj\Debug\DomainLayer.csprojAssemblyReference.cache
+D:\ADDON\MCWM\MCWM_20191017_0727\MCWM\DomainLayer\obj\Debug\DomainLayer.csproj.CoreCompileInputs.cache
+D:\ADDON\MCWM\MCWM_20191017_0727\MCWM\DomainLayer\obj\Debug\DomainLayer.csproj.CopyComplete
+D:\ADDON\MCWM\MCWM_20191017_0727\MCWM\DomainLayer\obj\Debug\DomainLayer.dll
+D:\ADDON\MCWM\MCWM_20191017_0727\MCWM\DomainLayer\obj\Debug\DomainLayer.pdb
+C:\Users\thinkpad\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\DomainLayer\obj\Debug\DomainLayer.csprojResolveAssemblyReference.cache
+D:\Projects Visual Studio\MCWM\DomainLayer\bin\Debug\DomainLayer.dll.config
+D:\Projects Visual Studio\MCWM\DomainLayer\bin\Debug\DomainLayer.dll
+D:\Projects Visual Studio\MCWM\DomainLayer\bin\Debug\DomainLayer.pdb
+D:\Projects Visual Studio\MCWM\DomainLayer\bin\Debug\EntityFramework.dll
+D:\Projects Visual Studio\MCWM\DomainLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects Visual Studio\MCWM\DomainLayer\bin\Debug\EntityFramework.xml
+D:\Projects Visual Studio\MCWM\DomainLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects Visual Studio\MCWM\DomainLayer\obj\Debug\DomainLayer.csproj.AssemblyReference.cache
+D:\Projects Visual Studio\MCWM\DomainLayer\obj\Debug\DomainLayer.csproj.CoreCompileInputs.cache
+D:\Projects Visual Studio\MCWM\DomainLayer\obj\Debug\DomainLayer.csproj.CopyComplete
+D:\Projects Visual Studio\MCWM\DomainLayer\obj\Debug\DomainLayer.dll
+D:\Projects Visual Studio\MCWM\DomainLayer\obj\Debug\DomainLayer.pdb

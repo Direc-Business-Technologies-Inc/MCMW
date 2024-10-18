@@ -1,0 +1,93 @@
+﻿using DirecLayer;
+using DomainLayer.SAP_DATABASE;
+//using SAPbobsCOM;
+using System.Collections.Generic;
+using System.Web.Script.Serialization;
+using System.Windows.Forms;
+
+
+namespace ServiceLayer
+{
+    public class Orders
+    {
+        public string ErrMsg { get; set; }
+
+        public bool Post(List<ORDR> ordr)
+        {
+            SboServiceLayer sbo = new SboServiceLayer();
+            if (sbo.Login())
+            {
+                var sboCred = new SboCredentials();
+                string url = ApiHelper.ServiceURL_Update(sboCred.ServiceLayer);
+                ApiHelper.ServiceLayer.open("POST", $@"{url}Orders");
+
+                string json = new JavaScriptSerializer().Serialize(ordr).ToString();
+
+                json = JsonHelper.RemoveNullorEmptyJsonValue(json);
+
+                if (json.Length > 2)
+                {
+                    json = json.Substring(1, json.Length - 2);
+                }
+                ApiHelper.ServiceLayer.send(json);
+
+                string result = JsonHelper.GetJsonValue(ApiHelper.ServiceLayer.responseText, "DocEntry");
+
+                return result.Contains("error") ? false : true;
+            }
+            else
+            {
+                ErrMsg = sbo.ErrMsg;
+                return false;
+            }
+        }
+
+        public bool Patch(List<ORDR> ordr,int docEntry)
+        {
+            SboServiceLayer sbo = new SboServiceLayer();
+            if (sbo.Login())
+            {
+                var sboCred = new SboCredentials();
+                string url = ApiHelper.ServiceURL_Update(sboCred.ServiceLayer);
+                ApiHelper.ServiceLayer.open("PATCH", $@"{url}Orders({docEntry})");
+
+                ordr.RemoveAll(item => item == null);
+                string json = new JavaScriptSerializer().Serialize(ordr).ToString();
+                json = JsonHelper.RemoveNullorEmptyJsonValue(json);
+
+                if (json.Length > 2)
+                {
+                    json = json.Substring(1, json.Length - 2);
+                }
+
+                ApiHelper.ServiceLayer.setRequestHeader("B1S-ReplaceCollectionsOnPatch", "true");
+
+                ApiHelper.ServiceLayer.send(json);
+
+                string result = JsonHelper.GetJsonValue(ApiHelper.ServiceLayer.responseText, "DocEntry");
+
+                return result.Contains("error") ? false : true;
+            }
+            else
+            {
+                ErrMsg = sbo.ErrMsg;
+                return false;
+            }
+        }
+
+        //public bool Add(List<ORDR> ordr)
+        //{
+        //    SboDataInterfaceAPI sbo = new SboDataInterfaceAPI();
+        //    if (sbo.IsConnected() == false)
+        //    {
+        //        sbo.Login();
+        //    }
+
+        //    Documents oOrders = (Documents)ApiHelper.oCompany.GetBusinessObject(BoObjectTypes.oOrders);
+
+
+
+        //    return false;
+        //}
+    }
+}

@@ -1,0 +1,68 @@
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\ServiceLayer\obj\Debug\ServiceLayer.csprojResolveAssemblyReference.cache
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\ServiceLayer\bin\Debug\ServiceLayer.dll
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\ServiceLayer\bin\Debug\ServiceLayer.pdb
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\ServiceLayer\bin\Debug\DirecLayer.dll
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\ServiceLayer\bin\Debug\DomainLayer.dll
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\ServiceLayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\ServiceLayer\bin\Debug\RestSharp.dll
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\ServiceLayer\bin\Debug\EntityFramework.dll
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\ServiceLayer\bin\Debug\DirecLayer.pdb
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\ServiceLayer\bin\Debug\DomainLayer.pdb
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\ServiceLayer\bin\Debug\DomainLayer.dll.config
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\ServiceLayer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\ServiceLayer\bin\Debug\RestSharp.xml
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\ServiceLayer\bin\Debug\EntityFramework.xml
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\ServiceLayer\obj\Debug\ServiceLayer.dll
+C:\Users\DIREC0046\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\ServiceLayer\obj\Debug\ServiceLayer.pdb
+C:\Users\thinkpad\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\ServiceLayer\bin\Debug\ServiceLayer.dll
+C:\Users\thinkpad\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\ServiceLayer\bin\Debug\ServiceLayer.pdb
+C:\Users\thinkpad\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\ServiceLayer\bin\Debug\DirecLayer.dll
+C:\Users\thinkpad\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\ServiceLayer\bin\Debug\DomainLayer.dll
+C:\Users\thinkpad\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\ServiceLayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\thinkpad\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\ServiceLayer\bin\Debug\RestSharp.dll
+C:\Users\thinkpad\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\ServiceLayer\bin\Debug\EntityFramework.dll
+C:\Users\thinkpad\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\ServiceLayer\bin\Debug\DirecLayer.pdb
+C:\Users\thinkpad\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\ServiceLayer\bin\Debug\DomainLayer.pdb
+C:\Users\thinkpad\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\ServiceLayer\bin\Debug\DomainLayer.dll.config
+C:\Users\thinkpad\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\ServiceLayer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\thinkpad\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\ServiceLayer\bin\Debug\RestSharp.xml
+C:\Users\thinkpad\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\ServiceLayer\bin\Debug\EntityFramework.xml
+C:\Users\thinkpad\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\ServiceLayer\obj\Debug\ServiceLayer.csprojResolveAssemblyReference.cache
+C:\Users\thinkpad\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\ServiceLayer\obj\Debug\ServiceLayer.dll
+C:\Users\thinkpad\Desktop\CLIENTS\MCWM\PROGRAM\MCWM\ServiceLayer\obj\Debug\ServiceLayer.pdb
+D:\ADDON\MCWM\MCWM_20191017_0727\MCWM\ServiceLayer\bin\Debug\ServiceLayer.dll
+D:\ADDON\MCWM\MCWM_20191017_0727\MCWM\ServiceLayer\bin\Debug\ServiceLayer.pdb
+D:\ADDON\MCWM\MCWM_20191017_0727\MCWM\ServiceLayer\bin\Debug\DirecLayer.dll
+D:\ADDON\MCWM\MCWM_20191017_0727\MCWM\ServiceLayer\bin\Debug\DomainLayer.dll
+D:\ADDON\MCWM\MCWM_20191017_0727\MCWM\ServiceLayer\bin\Debug\Newtonsoft.Json.dll
+D:\ADDON\MCWM\MCWM_20191017_0727\MCWM\ServiceLayer\bin\Debug\RestSharp.dll
+D:\ADDON\MCWM\MCWM_20191017_0727\MCWM\ServiceLayer\bin\Debug\EntityFramework.dll
+D:\ADDON\MCWM\MCWM_20191017_0727\MCWM\ServiceLayer\bin\Debug\DirecLayer.pdb
+D:\ADDON\MCWM\MCWM_20191017_0727\MCWM\ServiceLayer\bin\Debug\DomainLayer.pdb
+D:\ADDON\MCWM\MCWM_20191017_0727\MCWM\ServiceLayer\bin\Debug\DomainLayer.dll.config
+D:\ADDON\MCWM\MCWM_20191017_0727\MCWM\ServiceLayer\bin\Debug\Newtonsoft.Json.xml
+D:\ADDON\MCWM\MCWM_20191017_0727\MCWM\ServiceLayer\bin\Debug\RestSharp.xml
+D:\ADDON\MCWM\MCWM_20191017_0727\MCWM\ServiceLayer\bin\Debug\EntityFramework.xml
+D:\ADDON\MCWM\MCWM_20191017_0727\MCWM\ServiceLayer\obj\Debug\ServiceLayer.csprojAssemblyReference.cache
+D:\ADDON\MCWM\MCWM_20191017_0727\MCWM\ServiceLayer\obj\Debug\ServiceLayer.csproj.CoreCompileInputs.cache
+D:\ADDON\MCWM\MCWM_20191017_0727\MCWM\ServiceLayer\obj\Debug\ServiceLayer.csproj.CopyComplete
+D:\ADDON\MCWM\MCWM_20191017_0727\MCWM\ServiceLayer\obj\Debug\ServiceLayer.dll
+D:\ADDON\MCWM\MCWM_20191017_0727\MCWM\ServiceLayer\obj\Debug\ServiceLayer.pdb
+D:\Projects Visual Studio\MCWM\ServiceLayer\obj\Debug\ServiceLayer.csproj.AssemblyReference.cache
+D:\Projects Visual Studio\MCWM\ServiceLayer\obj\Debug\ServiceLayer.csproj.CoreCompileInputs.cache
+D:\Projects Visual Studio\MCWM\ServiceLayer\obj\Debug\ServiceLayer.dll
+D:\Projects Visual Studio\MCWM\ServiceLayer\obj\Debug\ServiceLayer.pdb
+D:\Projects Visual Studio\MCWM\ServiceLayer\bin\Debug\ServiceLayer.dll
+D:\Projects Visual Studio\MCWM\ServiceLayer\bin\Debug\ServiceLayer.pdb
+D:\Projects Visual Studio\MCWM\ServiceLayer\bin\Debug\DirecLayer.dll
+D:\Projects Visual Studio\MCWM\ServiceLayer\bin\Debug\DomainLayer.dll
+D:\Projects Visual Studio\MCWM\ServiceLayer\bin\Debug\Newtonsoft.Json.dll
+D:\Projects Visual Studio\MCWM\ServiceLayer\bin\Debug\RestSharp.dll
+D:\Projects Visual Studio\MCWM\ServiceLayer\bin\Debug\EntityFramework.dll
+D:\Projects Visual Studio\MCWM\ServiceLayer\bin\Debug\DirecLayer.pdb
+D:\Projects Visual Studio\MCWM\ServiceLayer\bin\Debug\DomainLayer.pdb
+D:\Projects Visual Studio\MCWM\ServiceLayer\bin\Debug\DomainLayer.dll.config
+D:\Projects Visual Studio\MCWM\ServiceLayer\bin\Debug\Newtonsoft.Json.xml
+D:\Projects Visual Studio\MCWM\ServiceLayer\bin\Debug\RestSharp.xml
+D:\Projects Visual Studio\MCWM\ServiceLayer\bin\Debug\EntityFramework.xml
+D:\Projects Visual Studio\MCWM\ServiceLayer\obj\Debug\ServiceLayer.csproj.CopyComplete
